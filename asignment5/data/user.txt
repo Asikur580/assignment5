@@ -1,0 +1,1 @@
+[{"role":"manager","username":"Joni","email":"joni@gmail.com","password":"1234"},{"role":"admin","username":"Asikur","email":"asik@gmail.com","password":"1234"},{"role":"user","username":"Anowar","email":"anowar@gmail.com","password":"1234"}]
